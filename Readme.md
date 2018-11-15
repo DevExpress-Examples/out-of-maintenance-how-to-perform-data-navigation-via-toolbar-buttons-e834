@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarsDataNavigator.cs](./CS/DataNavigator/BarsDataNavigator.cs) (VB: [BarsDataNavigator.vb](./VB/DataNavigator/BarsDataNavigator.vb))
+* [Form1.cs](./CS/DataNavigator/Form1.cs) (VB: [Form1.vb](./VB/DataNavigator/Form1.vb))
+<!-- default file list end -->
 # How to Perform Data Navigation via Toolbar Buttons
 
 
